@@ -1,3 +1,5 @@
+https://patricia-droid.github.io/CLASIFICACION-DE-IMAGENES-REDES-CNN/
+
 Clasificación imágenes Fashion-Mnist
 La base de datos que vamos a utilizar es Fashion-Mnist, que es un conjunto de imágenes de 28x28 pixeles, en escala de grises, que representan a 10 artículos de la tienda Zalando. https://github.com/zalandoresearch/fashion-mnist
 
